@@ -25,3 +25,4 @@ This project demonstrates handling forms in JavaScript, including capturing inpu
 
 ![Resource](https://drive.google.com/uc?export=view&id=1N3ThPwKJ0OnhBV40uLBGiv0SsRxEJ3QM)
 
+![Resource](https://drive.google.com/uc?export=view&id=1AozA-az1AFVtFBK6PKkLV9GVyud_5Qp5)
